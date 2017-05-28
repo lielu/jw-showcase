@@ -1,11 +1,11 @@
 {
-  "name": "JW Showcase",
-  "short_name": "JW Showcase",
+  "name": "Chube Video",
+  "short_name": "Chube Video",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
-  "description": "JW Showcase is an open-source, dynamically generated video website built around JW Player and JW Platform services. It enables you to easily publish your JW Player-hosted video content with no coding and minimal configuration.",
+  "description": "Chube Video",
   "icons": [{
     "src": "images/icon-128x128.png",
     "sizes": "128x128",
